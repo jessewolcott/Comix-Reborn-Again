@@ -1,0 +1,11 @@
+------------------------------------------------------------------------
+r31 | frozn45 | 2022-12-03 01:18:42 +0000 (Sat, 03 Dec 2022) | 1 line
+Changed paths:
+   M /trunk/Comix-Classic.toc
+   M /trunk/Comix-WOTLKC.toc
+   M /trunk/Comix.lua
+   M /trunk/Comix.toc
+
+- fixed lua error if swing damage amount is nil
+------------------------------------------------------------------------
+

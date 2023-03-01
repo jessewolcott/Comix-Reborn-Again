@@ -1,0 +1,15 @@
+# Retail Interface Version
+## Interface: 11403
+## Title: Comix
+## Notes: A plain fun addon
+## Author: Darool, Nixxen, Frozn45
+## Version: 10.0.2.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: Comix_Max_Scale, ComixAniSpeed, ComixMaxCrits, Comix_AddOnEnabled, Comix_SoundEnabled, Comix_BSEnabled, Comix_DemoShoutEnabled, Comix_ZoneEnabled, Comix_DeathSoundEnabled, Comix_KillCountEnabled, Comix_CritPercent, Comix_FinishHimGap, Comix_SpecialsEnabled, Comix_BamEnabled, Comix_ImagesEnabled, Comix_FinishhimEnabled, Comix_CritGapEnabled, Comix_CritGap, Comix_ShakeEnabled, Comix_CritSoundsEnabled, Comix_CritHealsEnabled, Comix_CritFlashEnabled, Comix_HealFlashEnabled, Comix_BSSounds, Comix_DSSounds, Comix_BounceSoundEnabled, Comix_JumpCount, Comix_AbilitySoundsEnabled, Comix_ResSoundEnabled, Comix_ReadySoundEnabled, Comix_Overkill, Comix_OverkillEnabled, Comix_ShakeOffset, Comix_ObjectionSoundsEnabled, Comix_ObjectionImagesEnabled, Comix_PublicObjections, Comix_Hugs, Comix_Hugged, Comix_HugName
+## X-Category: Combat
+## X-Website: https://www.curseforge.com/wow/addons/comix-reborn
+## X-Curse-Project-ID: 504143
+
+Comix.xml
+Comix_options.xml
